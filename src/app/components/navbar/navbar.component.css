@@ -1,0 +1,23 @@
+
+.iconContainer{
+    width: 25px;
+    height: 25px;
+}
+
+.icon{
+    width: 100%;
+}
+
+.navbarWrapper{
+    display: flex;
+    padding: 10px 1px;
+    justify-content: space-around;
+}
+
+.menu{
+
+    align-items: center;
+    /* justify-content: center; */
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,15 @@
+
+.card-1-wrapper{
+    padding: 20px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    border-radius: 20px;
+    background-color:white;
+    margin-bottom: 15px;    
+}
+
+.cardItem{
+    padding: 20px  0px;
+    border-bottom: 1px solid #eceaea;
+
+    
+}
