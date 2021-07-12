@@ -9,6 +9,8 @@ import { CardComponent } from './components/card/card.component';
 import { ProfileComponent } from './pages/profile/profile.component';
 import { ButtonComponent } from './components/button/button.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
+import { NotificationsComponent } from './pages/notifications/notifications.component';
+import { SwitchComponent } from './components/switch/switch.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +20,9 @@ import { NavbarComponent } from './components/navbar/navbar.component';
     CardComponent,
     ProfileComponent,
     ButtonComponent,
-    NavbarComponent
+    NavbarComponent,
+    NotificationsComponent,
+    SwitchComponent
   ],
   imports: [
     BrowserModule,
